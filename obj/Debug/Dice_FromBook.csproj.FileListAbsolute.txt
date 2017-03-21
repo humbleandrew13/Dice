@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dice_FromBook\bin\Debug\Dice_FromBook.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dice_FromBook\bin\Debug\Dice_FromBook.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dice_FromBook\bin\Debug\Dice_FromBook.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dice_FromBook\obj\Debug\Dice_FromBook.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dice_FromBook\obj\Debug\Dice_FromBook.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Dice_FromBook\obj\Debug\Dice_FromBook.pdb
